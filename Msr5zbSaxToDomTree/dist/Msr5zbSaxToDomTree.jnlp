@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Msr5zbSaxToDomTree.jnlp">
+  <information>
+    <title>Msr5zbSaxToDomTree</title>
+    <vendor>dale</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Msr5zbSaxToDomTree.jar" size="9912" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Msr5zbSaxToDomTree" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="msr5zbsaxtodomtree.Msr5zbSaxToDomTree"  name="Msr5zbSaxToDomTree" />
+  <update check="always"/>
+</jnlp>
